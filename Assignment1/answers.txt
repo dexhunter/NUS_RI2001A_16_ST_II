@@ -1,0 +1,13 @@
+Retweet
+<average in-degree of retweet network> -> 1.824987
+<average out-degree of retweet network> -> 1.824987
+<number of nodes in retweet network> -> 3958901
+Mention
+<average in-degree of mention network> -> 2.301998
+<average out-degree of mention network> -> 2.301998
+<number of nodes in mention network> -> 6703975
+Subgraph
+<number of rows after trimming with head(.,.) (7,224,942 if no trimming)> -> 7,224,942(no need to trim), my algorithm is efficient.
+<number of rows in graph.txt above> -> 5000
+
+***<number of rows after removing non-duplicate rows> -> 26,430
