@@ -1,0 +1,9 @@
+Solution to problem 1089:
+
+Known: |a - c| > 1 
+
+Let's say we have a number with 3-digit abc, which is equivalent to 100a+10b+c. Take the reverse cba, which is 100c+10b+a. Subtract the two and we get (suppose abc>cba) 99(a-c). Since |a-c|>1, then (a-c)!=0. Then we can do the next operation. On account of divisibility rule, 99(a-c) can be rewritten in form of 100d + 90 + e, where d+e=9. The revese is 100e + 90 + d and summing two, we get 101*(d+e)+180=101*9+180=1089, which is desired value.
+
+Caveat: when |a-c|=1, we get 99 which is 2-digit, if we want to continue operation then we could take it as 099, but our condition is |a-c|>1, so there is no need to worry.
+
+_Solution by Dex_
