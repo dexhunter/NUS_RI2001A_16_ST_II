@@ -3,3 +3,4 @@
 
 Most basic usage of R. A lot of credit goes to @akrun since he answered my question in stackoverflow. See the [link] (http://stackoverflow.com/questions/38428111/count-unique-values-of-multiple-columns-in-r)
 
+Since the guide for assignment2 is already too detailed, there is nothing more to be done for this assignment. 
